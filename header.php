@@ -1,3 +1,4 @@
+<!--this is header page-->
 <!DOCTYPE html>
 <html lang="en">
 <?php
