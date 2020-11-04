@@ -4,8 +4,8 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-12 col-sm-12">
                         <div class="footer-widget">
-                            <h4>About Kids Wear Collection</h4>
-                            <p>We're kids wear collection, India's largest online kids’ fashion brand. We promise to transform every moment in your little one’s life into a stylish #Kidswearcollection. From infancy to childhood and everything in between.
+                            <h3>About Kids Wear Collection</h3>
+                            <p>We're kids wear collection, India's largest online kids’ fashion brand. We promise to transform every moment in your little one’s life into a stylish Kidswearcollection. From infancy to childhood and everything in between.
                                 </p>
                             <ul>
                                 <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
