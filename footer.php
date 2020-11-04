@@ -36,7 +36,7 @@
                             <h4>Contact Us</h4>
                             <ul>
                                 <li>
-                                    <p><i class="fas fa-map-marker-alt"></i>Address: Sunshine Building <br>Rajhans Tower Street,<br> Surat 395 005 </p>
+                                    <p><i class="fas fa-map-marker-alt"></i>Address: Sunshine Building <br>Rajhans Tower Street,<br> Surat 398564 </p>
                                 </li>
                                 <li>
                                     <p><i class="fas fa-phone-square"></i>Phone: <a href="tel:+1-888705770">9958845521</a></p>
