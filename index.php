@@ -61,7 +61,7 @@
         </div>
     </div>
     <!-- End Slider -->
-
+   <!-- new -->
     <!-- Start Categories  -->
     <div class="categories-shop">
         <div class="container">
