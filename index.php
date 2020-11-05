@@ -459,7 +459,7 @@
                             </div>
                         </div>
                         <div class="why-text">
-                            <h4>Boys Etnic Wear</h4>
+                            <h4>Boys Ethnic Wear</h4>
                             
                         </div>
                     </div>
