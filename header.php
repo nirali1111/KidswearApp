@@ -1,4 +1,4 @@
-<!--this is header page and contain header information-->
+<!--this is header page and contain header information -->
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -55,10 +55,7 @@ $wish_qn =  "select * from tbl_wishlist where `wish_user_id`='$user_id'";
     <link rel="stylesheet" href="css/custom.css">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
-    <style>
-
-
-     </style>
+    
     <!--  <script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script> -->
     
 </head>
