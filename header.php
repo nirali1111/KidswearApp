@@ -1,4 +1,4 @@
-<!--this is header page-->
+<!--this is header page and contain header information-->
 <!DOCTYPE html>
 <html lang="en">
 <?php
